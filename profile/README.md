@@ -3,7 +3,6 @@
 
 Welcome to the GitHub organization for **CALHCI** – a research and development lab dedicated to advancing the field of Human-Computer Interaction (HCI) through the integration of cutting-edge technologies such as affective computing, brain-computer interfaces (BCIs), extended reality (XR), intelligent systems, and robotics.
 
----
 
 ## 🧭 Mission
 
@@ -13,7 +12,6 @@ At CALHCI, we aim to push the boundaries of how humans interact with machines by
 - Grounded in user-centered design
 - Engineered for real-world impact
 
----
 
 ## 🔬 Areas of Research
 
@@ -23,7 +21,6 @@ At CALHCI, we aim to push the boundaries of how humans interact with machines by
 - **Human-Robot Interaction**: Real-time collaborative robotics and digital twins
 - **Accessible and Inclusive Design**: Empowering all users through equitable technology
 
----
 
 ## 📁 Featured Projects
 
